@@ -1,0 +1,10 @@
+body {background-color:#FFB03B;text-align:center;}
+div.title{font:150px georgia,sans;color:#FFF;margin:0 auto;margin-top:100px;}
+div.desc {color:#B64926;font:48px georgia,sans;}
+div.social {margin:0 auto;width:400px;margin-top:50px;color:#FFF0A5;}
+div.social a{color:#FFF0A5;text-decoration:none;}
+div.social .network {width:200px;float:left}
+div.clear {clear:both;}
+.float_left {float:left;}
+div.social .name {float:left;padding-top:10px;font:bold 16px georgia,sans;}
+div.social .handle{padding-top:10px;font:16px georgia,sans;text-align:left}
