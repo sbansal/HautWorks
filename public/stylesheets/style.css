@@ -8,3 +8,6 @@ div.clear {clear:both;}
 .float_left {float:left;}
 div.social .name {float:left;padding-top:10px;font:bold 16px georgia,sans;}
 div.social .handle{padding-top:10px;font:16px georgia,sans;text-align:left}
+div.email {font-size:28px;}
+div.email a {text-decoration:underline;color:#B64926;}
+div.email a:hover {background-color:#B64926;color:#FFF;}
